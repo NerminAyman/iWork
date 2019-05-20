@@ -15,3 +15,7 @@ company name, address, phone number(s), email, vision, type (national, internati
 and field of specialization. Moreover, every company profile displays the available departments along with
 jobs that it offers. Every department has a name and a code that uniquely identifies it.
 Users of the website can be categorized as follows: job seekers, and staff members. Staff members include HR employees, managers and regular employees, among other types such as public relations, secretaries. Every staff member has one role and works for one department only.
+
+**Team Members:**
+
+This project is done by a team of four computer science and engineering student, including me.
